@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Russia_1",
+    "status": "no problems",
+    "geo1": "57.99400324760205",
+    "geo2": "60.73410604300735",
+    "numberOfConnections": 10,
+    "Uptime": "15 days"
+  },
+  {
+    "name": "Russia_2",
+    "status": "minor problems",
+    "geo1": "62.950599862435396",
+    "geo2": "105.60227010550732",
+    "numberOfConnections": 16,
+    "Uptime": "18 days"
+  },
+  {
+    "name": "Russia_3",
+    "status": "many problems",
+    "geo1": "56.83580484034394",
+    "geo2": "60.26993900221754",
+    "numberOfConnections": 22,
+    "Uptime": "10 days"
+  },
+  {
+    "name": "Russia_4",
+    "status": "no problems",
+    "geo1": "54.85845681734863",
+    "geo2": "31.88126712721753",
+    "numberOfConnections": 9,
+    "Uptime": "150 days"
+  },
+  {
+    "name": "Russia_5",
+    "status": "died",
+    "geo1": "64.35993410519052",
+    "geo2": "40.8501291937182",
+    "numberOfConnections": 32,
+    "Uptime": "25 days"
+  },
+  {
+    "name": "USA_1",
+    "status": "no problems",
+    "geo1": "41.16475244368966",
+    "geo2": "-87.47662312206252",
+    "numberOfConnections": 8,
+    "Uptime": "115 days"
+  },
+  {
+    "name": "USA_2",
+    "status": "minor problems",
+    "geo1": "38.97045377788559",
+    "geo2": "-94.85943562206252",
+    "numberOfConnections": 16,
+    "Uptime": "2 days"
+  },
+  {
+    "name": "USA_3",
+    "status": "many problems",
+    "geo1": "45.77029457326454",
+    "geo2": "-108.57037312206252",
+    "numberOfConnections": 21,
+    "Uptime": "42 days"
+  },
+  {
+    "name": "USA_4",
+    "status": "no problems",
+    "geo1": "37.79441756319579",
+    "geo2": "-122.1934199970625",
+    "numberOfConnections": 12,
+    "Uptime": "55 days"
+  },
+  {
+    "name": "USA_5",
+    "status": "died",
+    "geo1": "34.18861568042417",
+    "geo2": "-118.0186153095625",
+    "numberOfConnections": 40,
+    "Uptime": "63 days"
+  }
+]
